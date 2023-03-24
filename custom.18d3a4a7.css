@@ -10985,7 +10985,7 @@ textarea.form-control-lg {
   }
 }
 .heronft_bg {
-  background-image: linear-gradient(225deg, hsla(205deg, 86%, 56%, 0.8) 0%, hsla(0deg, 0%, 0%, 0.8) 100%), url(/babycatNFT.77ea455f.png);
+  background-image: linear-gradient(225deg, hsl(205deg, 86%, 56%) 0%, hsla(0deg, 0%, 0%, 0.8) 100%), url(/babycatNFT.77ea455f.png);
   background-size: cover;
   background-position: center;
 }
